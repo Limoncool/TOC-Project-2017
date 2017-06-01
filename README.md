@@ -10,7 +10,7 @@ Wen-Kai Tsai (F74022010)
 
 ## Run
 
-### Setup
+### Setup (Choose one of the two ways)
 
 #### Use my bot
 * Search F74022010testbot in Telegram.
@@ -30,11 +30,11 @@ python3 app.py
 ```
 
 ## Interacting
-*This is an interacting story. There are 22 endings.
+This is an interacting story. There are 22 endings.
 
 ### Initial
 * Type "0" to check out if the state is in the start state.
-    * Correct result will be "新的大冒險開始了......." on the screen.
+    * Correct result will be "New adventure begins......." in Chinese on the screen.
 
 ### Follow the instruction
 * The bot will ask you to type certain input to continue the program, just follow the hints.
